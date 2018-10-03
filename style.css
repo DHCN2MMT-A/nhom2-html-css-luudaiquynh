@@ -1,0 +1,70 @@
+* { margin: 0; padding: 0; }
+
+body {
+	font-family: sans-serif;
+	color: #333;
+}
+
+.section {
+	width: 1000px;
+	margin-left: 300px;
+}
+
+.space {
+	margin-top: 100px;
+}
+
+.header {
+	background-color: cyan;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.logo {
+	float: left;
+	margin: 20px 50px 0 50px;
+}
+
+.logo img {
+	width: 80px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+.menu li{
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+
+.menu li a:hover {
+	color: orange;
+}
+
+
+/*GIOI THIEU*/
+.gioithieu h2 {
+	margin-bottom: 30px;
+}
+
+.img {
+	text-align: center;
+}
+
+footer {
+	height: 50px;
+	background: white;
+}
+
+footer p {
+	padding-top: 20px;
+}
